@@ -69,7 +69,7 @@ ICICS 2023. [[eprint](https://eprint.iacr.org/2023/1002)]
 
 - **Linear Private Set Union from Multi-Query Reverse Private Membership Test.** <br>
 Cong Zhang, Yu Chen, Weiran Liu, Min Zhang, Dongdai Lin <br>
-USENIX Security Symposium 2023. [[eprint](https://eprint.iacr.org/2022/358)]
+USENIX Security 2023. [[eprint](https://eprint.iacr.org/2022/358)]
 
 
 ### 2022
@@ -102,6 +102,20 @@ Talks
 2024.11.16: 中国科学院信息工程研究所机密计算密码算法研讨会 <br>
 2024.11.20: 2024年清华大学高等研究院青年学者交叉论坛
 
+- **Unbalanced Private Set Union with Reduced Computation and Communication.** <br>
+2024.10.15: ACM CCS 2024 
+
+- **Secure Multiparty Computation with Lazy Sharing.** <br>
+2024.10.15: ACM CCS 2024 
+
+- **Efficient Private Multiset ID Protocols.** <br>
+2023.11.20: ICICS 2023. 
+
+- **Linear Private Set Union from Multi-Query Reverse Private Membership Test.** <br>
+2023.08.09: USENIX Security 2023.
+
+- **Amortizing Division and Exponentiation.** <br>
+2022.12.10: Inscrypt 2022.
 
 
 Service
