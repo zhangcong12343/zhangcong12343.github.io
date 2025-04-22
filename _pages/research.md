@@ -120,22 +120,27 @@ Talks
 
 Service
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+External Reviewer:  Inscrypt (2019,2022,2024), Asiacrypt (2020,2021,2023), ESORICS (2021,2022), PKC 2022, CCS 2022, ICICS 2023, NDSS 2025.
+  
   
 Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+- 2022年“金融密码杯”全国密码应用和技术创新大赛特等奖
+  
+- 2023中国科学院信息工程研究所所长优秀奖
+
+- 2024届中国科学院信息工程研究所优秀毕业生
+
+- 2024年中国密码学会博士学位论文激励计划
   
 Patents
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+[一种两方隐私集合并集计算方法和装置](), ZL-2021-1-0912825.0，2024.3.1.
   
 Funded Projects
 ======
-* Currently signed in to 43 different slack teams
+
+国家自然科学基金青年基金（C类）: 隐私计算中的关键密码技术研究 (No.62402272, 2025.01-2017.12, 30万)
