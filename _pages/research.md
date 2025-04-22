@@ -122,13 +122,13 @@ Slides about MPC
 
 In spring 2023, I had the privilege of being invited by Prof. [Yu Chen](https://yuchen1024.github.io) to give a series of lectures on MPC tailored for his esteemed research group. The focus was on things that I actually know about, namely, general MPC encompassing both garbled circuit and secret-sharing based MPC approaches, as well as Private Set Operations (PSO). The presentation materials I prepared are provided below. While I have made every effort to ensure accuracy, I welcome any feedback or corrections from colleagues in the field. Please don't hesitate to contact me with questions or suggestions.
 
-- Lecture 1. [Introduction to MPC.](..\files\slides1)
-- Lecture 2. [Oblivious Transfer](..\files\slides2)
-- Lecture 3. [Garbled Circuit](..\files\slides3)
-- Lecture 4. [Optimization of GC](..\files\slides4)
-- Lecture 5. [Secret-sharing-based MPC](..\files\slides5)
-- Lecture 6. [BMR Framework](..\files\slides6)
-- Lecture 7. [Private Set Operation](..\files\slides7)
+- Lecture 1. [Introduction to MPC.](..\files\slide1)
+- Lecture 2. [Oblivious Transfer](..\files\slide2)
+- Lecture 3. [Garbled Circuit](..\files\slide3)
+- Lecture 4. [Optimization of GC](..\files\slide4)
+- Lecture 5. [Secret-sharing-based MPC](..\files\slide5)
+- Lecture 6. [BMR Framework](..\files\slide6)
+- Lecture 7. [Private Set Operation](..\files\slide7)
 
 Service
 ======
