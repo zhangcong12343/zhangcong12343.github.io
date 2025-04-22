@@ -14,6 +14,9 @@ Publication
 
 ### 2025
 
+- **Charge Your Client: Payable Secure Computation and Its Applications.**
+Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, Meng Hao, Lei Zhang, and Dongdai Lin.
+In IEEE Transactions on Information Forensics and Security, TIFS 2025.
 
 Manuscripts
 ======
