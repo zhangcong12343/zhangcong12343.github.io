@@ -88,10 +88,6 @@ Inscrypt 2020. [[link](https://link.springer.com/chapter/10.1007/978-3-030-71852
 
 Manuscripts
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
 - **Multi-Party Private Set Operations from Predicative Zero-Sharing.** <br>
 Minglang Dong, Yu Chen, Cong Zhang, Yujie Bai, Yang Cao [[eprint](https://eprint.iacr.org/2025/640)]
