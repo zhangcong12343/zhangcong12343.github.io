@@ -28,25 +28,25 @@ USENIX Security 2025.
 
 - **Practical Keyword Private Information Retrieval from Key-to-Index Mappings.** <br>
 Meng Hao, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng <br>
-USENIX Security 2025. [[eprint](https://eprint.iacr.org/2025/210)]
+USENIX Security 2025. [[eprint](https://eprint.iacr.org/2025/210)][[Slides by Weiran](../files/2025-Simple KWPIR-V0.1-Waterloo.pptx)]
 
 ### 2024
 
 - **Unbalanced Private Set Union with Reduced Computation and Communication.** <br>
 Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, Meng Hao, Anyu Wang, Xiaoyun Wang <br>
-ACM CCS 2024. [[eprint](https://eprint.iacr.org/2024/1340)]
+ACM CCS 2024. [[eprint](https://eprint.iacr.org/2024/1340)][[Slides by Cong](../files/New_uPSU_Slides-4.pdf)][[Slides by Weiran](../files/CCS2024-UPSU-lwr.pptx)]
 
 - **Secure Multiparty Computation with Lazy Sharing.** <br>
 Shuaishuai Li, Cong Zhang, Dondai Lin <br>
-ACM CCS 2024. [[eprint](https://eprint.iacr.org/2024/1347)]
+ACM CCS 2024. [[eprint](https://eprint.iacr.org/2024/1347)][[Slides by Shuaishuai](../files/LazySharingPPT.pdf)]
 
 - **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval.** <br>
 Meng Hao, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, and Tianwei Zhang <br>
-USENIX Security 2024. [[eprint](https://eprint.iacr.org/2023/1636)]
+USENIX Security 2024. [[eprint](https://eprint.iacr.org/2023/1636)][[Slides by Weiran](../files/USENIX2024-UCPSI-lwr.pptx)]
 
 - **Private Set Operations from Multi-Query Reverse Private Membership Test.** <br>
 Yu Chen, Min Zhang, Cong Zhang, Minglang Dong, Weiran Liu <br>
-PKC 2024. [[eprint](https://eprint.iacr.org/2022/652)]
+PKC 2024. [[eprint](https://eprint.iacr.org/2022/652)][[Slides by Yu](../files/陈老师PSO-slide.pdf)][[Slides by Weiran](../files/PKC2024-PSO-lwr.pptx)]
 
 - **隐私集合运算中的关键数据结构研究 (A Survey on Key Data Structures in Private Set Operation).** <br>
 张响鸰, 张聪, 刘巍然, 陈宇 <br>
@@ -61,7 +61,7 @@ ACM CCS 2023. [[eprint](https://eprint.iacr.org/2022/653)]
 
 - **Efficient Private Multiset ID Protocols.** <br>
 Cong Zhang, Weiran Liu, Bolin Ding, Dondai Lin <br>
-ICICS 2023. [[eprint](https://eprint.iacr.org/2023/986)]
+ICICS 2023. [[eprint](https://eprint.iacr.org/2023/986)][[Slides by Cong](../files/PMID_slides.pdf)]
 
 - **Oblivious Transfer from Rerandomizable PKE.** <br>
 Shuaishuai Li, Cong Zhang, Dondai Lin <br>
@@ -69,14 +69,14 @@ ICICS 2023. [[eprint](https://eprint.iacr.org/2023/1002)]
 
 - **Linear Private Set Union from Multi-Query Reverse Private Membership Test.** <br>
 Cong Zhang, Yu Chen, Weiran Liu, Min Zhang, Dongdai Lin <br>
-USENIX Security 2023. [[eprint](https://eprint.iacr.org/2022/358)]
+USENIX Security 2023. [[eprint](https://eprint.iacr.org/2022/358)][[Slides by Cong](../files/Linear_PSU_Slides-8.pdf)][[Slides by Yu](../files/陈老师-PSU-slide.pdf)]
 
 
 ### 2022
 
 - **Amortizing Division and Exponentiation.** <br>
 Cong Zhang, Shuaishuai Li, Dongdai Lin <br>
-Inscrypt 2022. [[link](https://link.springer.com/chapter/10.1007/978-3-031-26553-2_10)]
+Inscrypt 2022. [[link](https://link.springer.com/chapter/10.1007/978-3-031-26553-2_10)][[Slides by Cong](../files/Amortizing_Division_and_Exponentiation_Slides-2.pdf)]
 
 ### 2020
 
