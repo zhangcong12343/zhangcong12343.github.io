@@ -9,14 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Publication
+Publications
 ======
 
 ### 2025
 
 - **Charge Your Client: Payable Secure Computation and Its Applications.** <br>
-Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, Meng Hao, Lei Zhang, and Dongdai Lin. <br>
+Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, Meng Hao, Lei Zhang, Dongdai Lin <br>
 IEEE TIFS 2025. [[eprint](https://eprint.iacr.org/2025/630)]
+
+- **Efficient Multi-Party Private Set Union Without Non-Collusion Assumptions.** <br>
+Minglang Dong, Cong Zhang, Yujie Bai, Yu Chen <br>
+USENIX Security Symposium 2025. [[eprint](https://eprint.iacr.org/2024/1146)]
+
+- **Fast Enhanced Private Set Union in the Balanced and Unbalanced Scenarios.** <br>
+Binbin Tu, Yujie Bai, Cong Zhang, Yang Cao, Yu Chen <br>
+USENIX Security Symposium 2025. #[[eprint](https://eprint.iacr.org/2025/1146)]
+
+- **Practical Keyword Private Information Retrieval from Key-to-Index Mappings.** <br>
+Meng Hao, Weiran Liu, Liqiang Peng, \textbf{Cong Zhang}, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng <br>
+USENIX Security Symposium 2025. [[eprint](https://eprint.iacr.org/2024/1146)]
 
 Manuscripts
 ======
