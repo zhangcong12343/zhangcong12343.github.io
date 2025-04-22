@@ -12,7 +12,7 @@ redirect_from:
 Publication
 ======
 
-##2025
+## 2025
 
 
 Manuscripts
