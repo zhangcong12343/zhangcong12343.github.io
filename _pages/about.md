@@ -14,7 +14,7 @@ My main research focus is on cryptographic protocols for secure computation. I a
 - General Multi-Party Computation Protocols, especially Garbled Circuit (GC) and Secret Sharing based protocols.
 - Specific Protocols, especially Private Set Operations (PSO), Private Information Retrival (PIR) etc.
 
-You can find my CV here: [My CV](https://github.com/zhangcong12343/zhangcong12343.github.io/blob/master/files/EnglishCV.pdf)
+You can find my CV here: [My CV](files/EnglishCV.pdf)
 
 News
 ======
