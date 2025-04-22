@@ -93,15 +93,11 @@ Manuscripts
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Multi-Party Private Set Operations from Predicative Zero-Sharing.** <br>
+Minglang Dong, Yu Chen, Cong Zhang, Yujie Bai, Yang Cao [[eprint](https://eprint.iacr.org/2025/640)]
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Pai: Private Retrieval with Constant Online Time, Communication, and Client-Side Storage for Data Marketplace.** <br>
+Shuaishuai Li, Weiran Liu, Liqiang Peng, Cong Zhang, Xinwei Gao, Aiping Liang, Lei Zhang, Dongdai Lin, Yuan Hong [[eprint](https://eprint.iacr.org/2023/1619)]
   
 Talks
 ======
