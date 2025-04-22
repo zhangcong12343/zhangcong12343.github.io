@@ -8,8 +8,21 @@ redirect_from:
 ---
 
 
+This page displays my personal hobbies and some useful links.
+
+Hobbies
+=======
+## Magic
+
+Since Lu Chen appeared on the Spring Festival Gala in 2009, I have been obsessed with magic. I once served as the branch president of the Student Magic Association at Shandong University. The years I spent in the Magic Association were the most memorable for me during my undergraduate studies. Currently, I hardly perform magic anymore, but I still enjoy watching magic shows. Especially, I really enjoy visual magic, which looks like real magic. I have listed some magicians that I like.
+
+- Lu Chen. Almost the enlightenment for all Chinese magic enthusiasts.
+- Eric Chen. If you haven't seen it, I strongly recommend you to watch his [FISM ACT](https://www.bilibili.com/video/BV1tT421X7EQ/?share_source=copy_web&vd_source=2d454ee9022a6b2e70355b6c677a504f)
+
+
 Useful Links
 =======
+
 
 ## Locations of key files/directories
 
