@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Publication
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-Work experience
+Manuscripts
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -32,7 +32,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Talks
 ======
 * Skill 1
 * Skill 2
@@ -41,24 +41,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Service
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Patents
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Funded Projects
 ======
 * Currently signed in to 43 different slack teams
