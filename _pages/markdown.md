@@ -43,11 +43,10 @@ I'm an anime fan with pretty eclectic tastes - my watchlist includes everything 
 Useful Links
 =======
 
+- [mpc4j](https://github.com/alibaba-edu/mpc4j)
 - [LaTeX Table Generator](https://www.tablesgenerator.com)
 - [PDF tools](https://www.ilovepdf.com/zh-cn)
 - [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/)
-- [LKs Website Recommendations](https://lkssite.vip)
-- [mpc4j](https://github.com/alibaba-edu/mpc4j)
 - [CCF Conference DDL](https://ccfddl.com)
 - [IACR Publications by Year](https://www.iacr.org/cryptodb/data/byyear.php)
 - [Computer Security Conference Ranking and Statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
