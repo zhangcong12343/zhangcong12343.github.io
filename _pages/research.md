@@ -28,7 +28,7 @@ USENIX Security 2025.
 
 - **Practical Keyword Private Information Retrieval from Key-to-Index Mappings.** <br>
 Meng Hao, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng <br>
-USENIX Security 2025. [[eprint](https://eprint.iacr.org/2025/210)][[Slides by Weiran](../files/2025-Simple KWPIR-V0.1-Waterloo.pptx)]
+USENIX Security 2025. [[eprint](https://eprint.iacr.org/2025/210)][[Slides by Weiran](../files/2025-Simple-KWPIR-V0.1-Waterloo.pptx)]
 
 ### 2024
 
