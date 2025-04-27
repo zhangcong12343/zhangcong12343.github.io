@@ -42,7 +42,7 @@ Shuaishuai Li, Cong Zhang, Dondai Lin <br>
 ACM CCS 2024. [[eprint](https://eprint.iacr.org/2024/1347)][[Slides by Shuaishuai](../files/LazySharingPPT.pdf)]
 
 - **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval.** <br>
-Meng Hao, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, and Tianwei Zhang <br>
+Meng Hao, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang <br>
 USENIX Security 2024. [[eprint](https://eprint.iacr.org/2023/1636)][[Slides by Weiran](../files/USENIX2024-UCPSI-lwr.pptx)][[Talk by Weiran](https://www.youtube.com/watch?v=vVrFqBAWUmo)]
 
 - **Private Set Operations from Multi-Query Reverse Private Membership Test.** <br>
