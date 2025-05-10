@@ -24,7 +24,7 @@ USENIX Security 2025. [[eprint](https://eprint.iacr.org/2024/1146)]
 
 - **Fast Enhanced Private Set Union in the Balanced and Unbalanced Scenarios.** <br>
 Binbin Tu, Yujie Bai, Cong Zhang, Yang Cao, Yu Chen <br>
-USENIX Security 2025. 
+USENIX Security 2025. [[eprint](https://eprint.iacr.org/2025/827)]
 
 - **Practical Keyword Private Information Retrieval from Key-to-Index Mappings.** <br>
 Meng Hao, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng <br>
