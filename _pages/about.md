@@ -21,6 +21,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 News
 ------
 
+- 2025.05: One submission was early rejected by ACM CCS! ✘
 - 2025.05: Similar to [Mike Rosulek](https://web.engr.oregonstate.edu/~rosulekm/), I will also list both good ✔️ and [bad news](https://x.com/adamaviv/status/1549028478372270087) ✘ here. All three submissions were rejected by CRYPTO! ✘
 - 2025.04: The website has started!
 
