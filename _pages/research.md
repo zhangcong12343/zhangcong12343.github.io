@@ -90,6 +90,9 @@ Inscrypt 2020. [[link](https://link.springer.com/chapter/10.1007/978-3-030-71852
 Manuscripts
 ======
 
+- **Fast Fuzzy PSI from Symmetric-Key Techniques.** <br>
+Cong Zhang, Yu Chen, Yang Cao, Yujie Bai, Shuaishuai Li, Juntong Lin, Anyu Wang, Xiaoyun Wang [[eprint](https://eprint.iacr.org/2025/885)]
+
 - **Multi-Party Private Set Operations from Predicative Zero-Sharing.** <br>
 Minglang Dong, Yu Chen, Cong Zhang, Yujie Bai, Yang Cao [[eprint](https://eprint.iacr.org/2025/640)]
 
@@ -101,7 +104,8 @@ Talks
 
 * **两方隐私集合求并协议设计** <br>
 2024.11.16: 中国科学院信息工程研究所机密计算密码算法研讨会 <br>
-2024.11.20: 2024年清华大学高等研究院青年学者交叉论坛
+2024.11.20: 2024年清华大学高等研究院青年学者交叉论坛 <br>
+2025.05.24: 中国密码学会2025年青年论坛
 
 - **Unbalanced Private Set Union with Reduced Computation and Communication.** <br>
 2024.10.15: ACM CCS 2024 
