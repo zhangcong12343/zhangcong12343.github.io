@@ -14,6 +14,10 @@ Publications
 
 ### 2025
 
+- **BitBatSPIR: Efficient Batch Symmetric Private Information Retrieval from PSI.** <br>
+Shuaishuai Li, Liqiang Peng, Weiran Liu, Cong Zhang, Zhen Gu, Dongdai Lin <br>
+IEEE TDSC 2025. 
+
 - **Charge Your Client: Payable Secure Computation and Its Applications.** <br>
 Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, Meng Hao, Lei Zhang, Dongdai Lin <br>
 IEEE TIFS 2025. [[eprint](https://eprint.iacr.org/2025/630)]
