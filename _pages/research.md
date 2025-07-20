@@ -94,6 +94,9 @@ Inscrypt 2020. [[link](https://link.springer.com/chapter/10.1007/978-3-030-71852
 Manuscripts
 ======
 
+- **Two-Server Sublinear PIR with Symmetric Privacy and Statistical Security.** <br>
+Shuaishuai Li, Anyu Wang, Cong Zhang, Xiaoyun Wang [[eprint](https://eprint.iacr.org/2025/1313)]
+
 - **Fast Fuzzy PSI from Symmetric-Key Techniques.** <br>
 Cong Zhang, Yu Chen, Yang Cao, Yujie Bai, Shuaishuai Li, Juntong Lin, Anyu Wang, Xiaoyun Wang [[eprint](https://eprint.iacr.org/2025/885)]
 
