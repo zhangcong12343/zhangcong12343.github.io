@@ -20,6 +20,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 
 News
 ------
+- 2025.07: Two submissions were early rejected by S&P! ✘
 - 2025.07: One submission was rejected by FOCS! ✘
 - 2025.06: Paper on batch symmetric PIR was accepted to IEEE TDSC! ✔️
 - 2025.05: One submission was early rejected by ACM CCS! ✘
