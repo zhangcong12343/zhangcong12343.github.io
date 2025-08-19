@@ -20,8 +20,8 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 
 News
 ------
-- 2025.07: Two submissions were early rejected by S&P! ✘
-- 2025.07: One submission was rejected by FOCS! ✘
+- 2025.08: One submission was rejected by ASIACRYPT! ✘ Paper on Multi-party PSO was accepted to ACM CCS! ✔️
+- 2025.07: One submission was rejected by FOCS! ✘ Two submissions were early rejected by S&P! ✘ One submission was rejected by ACM CCS! ✘
 - 2025.06: Paper on batch symmetric PIR was accepted to IEEE TDSC! ✔️
 - 2025.05: One submission was early rejected by ACM CCS! ✘
 - 2025.05: Similar to [Mike Rosulek](https://web.engr.oregonstate.edu/~rosulekm/), I will also list both good ✔️ and [bad news](https://x.com/adamaviv/status/1549028478372270087) ✘ here. All three submissions were rejected by CRYPTO! ✘
