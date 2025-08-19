@@ -15,7 +15,7 @@ Publications
 ### 2025
 
 - **Multi-Party Private Set Operations from Predicative Zero-Sharing.** <br>
-Minglang Dong, Yu Chen, Cong Zhang, Yujie Bai, Yang Cao
+Minglang Dong, Yu Chen, Cong Zhang, Yujie Bai, Yang Cao <br>
 ACM CCS 2025. [[eprint](https://eprint.iacr.org/2025/640)]
 
 - **BitBatSPIR: Efficient Batch Symmetric Private Information Retrieval from PSI.** <br>
