@@ -14,6 +14,10 @@ Publications
 
 ### 2025
 
+- **Multi-Party Private Set Operations from Predicative Zero-Sharing.** <br>
+Minglang Dong, Yu Chen, Cong Zhang, Yujie Bai, Yang Cao
+ACM CCS 2025. [[eprint](https://eprint.iacr.org/2025/640)]
+
 - **BitBatSPIR: Efficient Batch Symmetric Private Information Retrieval from PSI.** <br>
 Shuaishuai Li, Liqiang Peng, Weiran Liu, Cong Zhang, Zhen Gu, Dongdai Lin <br>
 IEEE TDSC 2025. [[eprint](https://eprint.iacr.org/2025/1201)]    
@@ -99,9 +103,6 @@ Shuaishuai Li, Anyu Wang, Cong Zhang, Xiaoyun Wang [[eprint](https://eprint.iacr
 
 - **Fast Fuzzy PSI from Symmetric-Key Techniques.** <br>
 Cong Zhang, Yu Chen, Yang Cao, Yujie Bai, Shuaishuai Li, Juntong Lin, Anyu Wang, Xiaoyun Wang [[eprint](https://eprint.iacr.org/2025/885)]
-
-- **Multi-Party Private Set Operations from Predicative Zero-Sharing.** <br>
-Minglang Dong, Yu Chen, Cong Zhang, Yujie Bai, Yang Cao [[eprint](https://eprint.iacr.org/2025/640)]
 
 - **Pai: Private Retrieval with Constant Online Time, Communication, and Client-Side Storage for Data Marketplace.** <br>
 Shuaishuai Li, Weiran Liu, Liqiang Peng, Cong Zhang, Xinwei Gao, Aiping Liang, Lei Zhang, Dongdai Lin, Yuan Hong [[eprint](https://eprint.iacr.org/2023/1619)]
