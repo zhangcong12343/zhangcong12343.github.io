@@ -110,6 +110,9 @@ Shuaishuai Li, Weiran Liu, Liqiang Peng, Cong Zhang, Xinwei Gao, Aiping Liang, L
 Talks
 ======
 
+- **Fast Enhanced Private Set Union in the Balanced and Unbalanced Scenarios.** <br>
+2025.08.14: USENIX Security 2025 
+
 * **两方隐私集合求并协议设计** <br>
 2024.11.16: 中国科学院信息工程研究所机密计算密码算法研讨会 <br>
 2024.11.20: 2024年清华大学高等研究院青年学者交叉论坛 <br>
