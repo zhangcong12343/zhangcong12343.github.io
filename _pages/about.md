@@ -21,7 +21,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 News
 ------
 - 2025.12: All three submissions were rejected by USENIX Security! ✘
-- 2025.08: One submission was rejected by ASIACRYPT! ✘ Paper on Multi-party PSO was accepted to ACM CCS! ✔️
+- 2025.08: One submission was rejected by ASIACRYPT! ✘ One submission was desk rejected by NDSS! ✘ Paper on Multi-party PSO was accepted to ACM CCS! ✔️
 - 2025.07: One submission was rejected by FOCS! ✘ Two submissions were early rejected by S&P! ✘ One submission was rejected by ACM CCS! ✘
 - 2025.06: Paper on batch symmetric PIR was accepted to IEEE TDSC! ✔️
 - 2025.05: One submission was early rejected by ACM CCS! ✘
