@@ -35,8 +35,11 @@ I'm an anime fan with pretty eclectic tastes - my watchlist includes everything 
 - The Melancholy of Haruhi Suzumiya.
 - Puella Magi Madoka Magica.
 - My Ordinary Life.
+- DEATH NOTE.
 - DEVILMAN crybaby.
 - Shiki.
+- ZOMBIE LAND SAGA.
+- Violet Evergarden.
 
 
 
