@@ -20,6 +20,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 
 News
 ------
+- 2026.04：Four submissions were early rejected by CRYPTO! ✘ One submission was rejected by ACM CCS! ✘
 - 2026.02：Two submissions were rejected by PKC! ✘
 - 2026.01：I have been invited to be a PC member for [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html)！✔️ Two submissions were rejected by EUROCRYPT! ✘
 - 2025.12: All three submissions were rejected by USENIX Security! ✘ One submission was rejected by IEEE TIFS! ✘
