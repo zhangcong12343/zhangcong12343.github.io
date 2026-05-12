@@ -11,6 +11,11 @@ redirect_from:
 
 Publications
 ======
+### 2026
+
+- **Private Function Evaluation with Linear Complexity.** <br>
+Shuaishuai Li, Cong Zhang, Anyu Wang, Xiaoyun Wang <br>
+CRYPTO 2026. [[eprint](https://eprint.iacr.org/2026/920)]
 
 ### 2025
 
