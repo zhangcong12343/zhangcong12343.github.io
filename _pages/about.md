@@ -49,7 +49,7 @@ My main research focus is on cryptographic protocols for secure computation. I a
 
 You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested in my research or would like to discuss any topics in cryptography, I would be delighted to connect. Please feel free to reach out to me via email zhangcong@mail.tsinghua.edu.cn.
 
-News
+## News
 ------
 
 <div class="news-container" markdown="1">
