@@ -7,6 +7,39 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.news-container {
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 10px 15px;
+  margin-top: 15px;
+  background-color: #fafafa;
+}
+.news-container h2 {
+  margin-top: 0;
+  font-size: 1.3em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+.news-container ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.news-container li {
+  padding: 6px 0;
+  border-bottom: 1px dashed #e0e0e0;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+.news-container li:last-child {
+  border-bottom: none;
+}
+</style>
+
+
 I am currently a Postdoctoral Fellow at the [Institute for Advanced Study](https://www.ias.tsinghua.edu.cn), Tsinghua University, Beijing, China, working under the supervision of Prof. [Xiaoyun Wang](https://www.ias.tsinghua.edu.cn/info/1016/1217.htm). I earned my Ph.D. from the [Institute of Information Engineering](https://www.iie.ac.cn), Chinese Academy of Sciences in 2023, where I was advised by Prof. [Dongdai Lin](https://people.ucas.ac.cn/~ddlin?language=en). Prior to my doctoral studies, I completed my Bachelor’s degree in [Mathematics at Shandong University](https://www.math.sdu.edu.cn) in 2018.
 
 
@@ -16,7 +49,7 @@ My main research focus is on cryptographic protocols for secure computation. I a
 
 You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested in my research or would like to discuss any topics in cryptography, I would be delighted to connect. Please feel free to reach out to me via email zhangcong@mail.tsinghua.edu.cn.
 
-
+<div class="news-container" markdown="1">
 
 News
 ------
@@ -33,4 +66,4 @@ News
 - 2025.04: The website has started!
 
 
-
+</div>
