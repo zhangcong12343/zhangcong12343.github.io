@@ -54,7 +54,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 
 <div class="news-container" markdown="1">
 
-
+- 2026.06：Paper on Fuzzy PSI was accepted to ACM CCS! ✔️
 - 2026.05：Two submissions were rejected by CRYPTO! ✘ Paper on PFE was accepted to CRYPTO! ✔️
 - 2026.04：Four submissions were early rejected by CRYPTO! ✘ One submission was rejected by ACM CCS! ✘
 - 2026.02：Two submissions were rejected by PKC! ✘
