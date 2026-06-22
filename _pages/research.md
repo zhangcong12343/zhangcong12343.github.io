@@ -13,6 +13,10 @@ Publications
 ======
 ### 2026
 
+- **Private Set Union under Hidden Feature Overlap for Security Intelligence Ingestion.** <br>
+Juntong Lin, Shuaishuai Li, Cong Zhang, Zhiyuan Qiu, Qidi You, Anyu Wang, Xiaoyun Wang <br>
+Inscrypt 2026.
+
 - **Breaking the Curse of Dimensionality: Fuzzy PSI without O((log δ)^d) Overhead.** <br>
 Cong Zhang, Yang Cao, Yujie Bai, Shuaishuai Li, Juntong Lin, Yu Chen, Anyu Wang, Xiaoyun Wang <br>
 ACM CCS 2026. 
