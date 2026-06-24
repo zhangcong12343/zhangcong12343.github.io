@@ -127,27 +127,27 @@ Talks
 ======
 
 - **Fast Enhanced Private Set Union in the Balanced and Unbalanced Scenarios.** <br>
-2025.08.14: USENIX Security 2025 
+2025.08.14: USENIX Security 2025, Seattle, U.S.A. 
 
 * **两方隐私集合求并协议设计** <br>
-2024.11.16: 中国科学院信息工程研究所机密计算密码算法研讨会 <br>
-2024.11.20: 2024年清华大学高等研究院青年学者交叉论坛 <br>
-2025.05.24: 中国密码学会2025年青年论坛
+2024.11.16: 中国科学院信息工程研究所机密计算密码算法研讨会，中国北京 <br>
+2024.11.20: 2024年清华大学高等研究院青年学者交叉论坛，中国北京 <br>
+2025.05.24: 中国密码学会2025年青年论坛，中国兰州
 
 - **Unbalanced Private Set Union with Reduced Computation and Communication.** <br>
-2024.10.15: ACM CCS 2024 
+2024.10.15: ACM CCS 2024, Salt Lake City, U.S.A. 
 
 - **Secure Multiparty Computation with Lazy Sharing.** <br>
-2024.10.15: ACM CCS 2024 
+2024.10.15: ACM CCS 2024, Salt Lake City, U.S.A.
 
 - **Efficient Private Multiset ID Protocols.** <br>
-2023.11.20: ICICS 2023. 
+2023.11.20: ICICS 2023, Tianjin, China. 
 
 - **Linear Private Set Union from Multi-Query Reverse Private Membership Test.** <br>
-2023.08.09: USENIX Security 2023.
+2023.08.09: USENIX Security 2023, Anaheim, U.S.A.
 
 - **Amortizing Division and Exponentiation.** <br>
-2022.12.10: Inscrypt 2022.
+2022.12.10: Inscrypt 2022, Online.
 
 Slides about MPC
 ======
@@ -165,8 +165,8 @@ In spring 2023, I had the privilege of being invited by Prof. [Yu Chen](https://
 Service
 ======
 
-- External Reviewer: Inscrypt (2019,2022,2024), Asiacrypt (2020,2021,2023,2026), ESORICS (2021,2022), PKC 2022, CCS 2022, ICICS 2023, NDSS 2025, TIFS 2025, CRYPTO 2026.
-- Reviewer: The Computer Journal, Transactions on Computers, IEEE TIFS.
+- External Reviewer: Inscrypt (2019,2022,2024), Asiacrypt (2020,2021,2023,2026), ESORICS (2021,2022), PKC 2022, ACM CCS 2022, ICICS 2023, NDSS 2025, IEEE TIFS 2025, CRYPTO 2026.
+- Journal Reviewer: The Computer Journal (2025), IEEE Transactions on Computers (2025), IEEE TIFS (2025,2026).
 - Program Committee: ACM CCS 2026.
   
   
