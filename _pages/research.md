@@ -126,6 +126,9 @@ Shuaishuai Li, Weiran Liu, Liqiang Peng, Cong Zhang, Xinwei Gao, Aiping Liang, L
 Talks
 ======
 
+- **A Simple Introduction to Secure Multi-Party Computation.** <br>
+2026.07.10: AIMS Conference 2026, Athens, Greece. 
+
 - **Fast Enhanced Private Set Union in the Balanced and Unbalanced Scenarios.** <br>
 2025.08.14: USENIX Security 2025, Seattle, U.S.A. 
 
