@@ -54,7 +54,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 
 <div class="news-container" markdown="1">
 
-- 2026.08：I have been invited to be a PC member for [NDSS 2027](https://www.ndss-symposium.org/ndss2027/)！✔️ 
+- 2026.08：I have been invited to be a PC member for [NDSS 2027](https://www.ndss-symposium.org/ndss2027/)！✔️ Paper on PFE was accepted to ASIACRYPT! ✔️ Three submissions were rejected by ASIACRYPT! ✘
 - 2026.07：Two submissions were rejected by ACM CCS! ✘ One submission was rejected by NDSS! ✘
 - 2026.06：Paper on Fuzzy PSI was accepted to ACM CCS! ✔️ Two submissions were early rejected by ACM CCS! ✘ Paper on PSU was accepted to Inscrypt! ✔️
 - 2026.05：Two submissions were rejected by CRYPTO! ✘ Paper on PFE was accepted to CRYPTO! ✔️
