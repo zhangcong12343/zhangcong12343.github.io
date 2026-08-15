@@ -13,6 +13,10 @@ Publications
 ======
 ### 2026
 
+- **Information-Theoretic SFE and PFE with Reduced Communication.** <br>
+Shuaishuai Li, Cong Zhang, Juntong Lin, Anyu Wang, Xiaoyun Wang <br>
+ASIACRYPT 2026. [[eprint](https://eprint.iacr.org/2026/1647)]
+
 - **Private Set Union under Hidden Feature Overlap for Security Intelligence Ingestion.** <br>
 Juntong Lin, Shuaishuai Li, Cong Zhang, Zhiyuan Qiu, Qidi You, Anyu Wang, Xiaoyun Wang <br>
 Inscrypt 2026.
