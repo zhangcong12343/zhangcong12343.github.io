@@ -40,7 +40,8 @@ redirect_from:
 </style>
 
 
-I am currently a Postdoctoral Fellow at the [Institute for Advanced Study](https://www.ias.tsinghua.edu.cn), Tsinghua University, Beijing, China, working under the supervision of Prof. [Xiaoyun Wang](https://www.ias.tsinghua.edu.cn/info/1016/1217.htm). I earned my Ph.D. from the [Institute of Information Engineering](https://www.iie.ac.cn), Chinese Academy of Sciences in 2023, where I was advised by Prof. [Dongdai Lin](https://people.ucas.ac.cn/~ddlin?language=en). Prior to my doctoral studies, I completed my Bachelor’s degree in [Mathematics at Shandong University](https://www.math.sdu.edu.cn) in 2018.
+
+I am currently an Assistant Research Fellow at the [State Key Laboratory of Cryptography and Digital Economy Security](https://skl-crypto.sdu.edu.cn/index.htm), Tsinghua University. Previously, I was a Postdoctoral Fellow at the [Institute for Advanced Study](https://www.ias.tsinghua.edu.cn), Tsinghua University, working under the supervision of Prof. [Xiaoyun Wang](https://www.ias.tsinghua.edu.cn/info/1016/1217.htm). I earned my Ph.D. from the [Institute of Information Engineering](https://www.iie.ac.cn), Chinese Academy of Sciences in 2023, where I was advised by Prof. [Dongdai Lin](https://people.ucas.ac.cn/~ddlin?language=en). Prior to my doctoral studies, I completed my Bachelor’s degree in [Mathematics at Shandong University](https://www.math.sdu.edu.cn) in 2018.
 
 
 My main research focus is on cryptographic protocols for secure computation. I am interested in both theoretical and practical aspects of secure computation techniques. More specifically:
@@ -54,6 +55,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 
 <div class="news-container" markdown="1">
 
+- 2026.09：Following the completion of my postdoctoral fellowship, I have joined the State Key Laboratory of Cryptography and Digital Economy Security, Tsinghua University！✔️ Two submissions were desk rejected by NDSS! ✘
 - 2026.08：I have been invited to be a PC member for [NDSS 2027](https://www.ndss-symposium.org/ndss2027/)！✔️ Paper on PFE was accepted to ASIACRYPT! ✔️ Three submissions were rejected by ASIACRYPT! ✘ One submission was rejected by TCC! ✘
 - 2026.07：Two submissions were rejected by ACM CCS! ✘ One submission was rejected by NDSS! ✘
 - 2026.06：Paper on Fuzzy PSI was accepted to ACM CCS! ✔️ Two submissions were early rejected by ACM CCS! ✘ Paper on PSU was accepted to Inscrypt! ✔️
