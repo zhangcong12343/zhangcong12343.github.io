@@ -55,6 +55,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 
 <div class="news-container" markdown="1">
 
+- 2026.10：All seven submissions were early rejected by USENIX Security! ✘ One submission was early rejected by PKC! ✘
 - 2026.09：Following the completion of my postdoctoral fellowship, I have joined the State Key Laboratory of Cryptography and Digital Economy Security, Tsinghua University！✔️ Two submissions were desk rejected by NDSS! ✘
 - 2026.08：I have been invited to be a PC member for [NDSS 2027](https://www.ndss-symposium.org/ndss2027/)！✔️ Paper on PFE was accepted to ASIACRYPT! ✔️ Three submissions were rejected by ASIACRYPT! ✘ One submission was rejected by TCC! ✘
 - 2026.07：Two submissions were rejected by ACM CCS! ✘ One submission was rejected by NDSS! ✘
@@ -65,7 +66,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 - 2026.01：I have been invited to be a PC member for [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html)！✔️ Two submissions were rejected by EUROCRYPT! ✘
 - 2025.12: All three submissions were rejected by USENIX Security! ✘ One submission was rejected by IEEE TIFS! ✘
 - 2025.08: One submission was rejected by ASIACRYPT! ✘ One submission was desk rejected by NDSS! ✘ Paper on Multi-party PSO was accepted to ACM CCS! ✔️
-- 2025.07: One submission was rejected by FOCS! ✘ Two submissions were early rejected by S&P! ✘ One submission was rejected by ACM CCS! ✘
+- 2025.07: One submission was rejected by FOCS! ✘ Two submissions were early rejected by IEEE S&P! ✘ One submission was rejected by ACM CCS! ✘
 - 2025.06: Paper on batch symmetric PIR was accepted to IEEE TDSC! ✔️
 - 2025.05: One submission was early rejected by ACM CCS! ✘
 - 2025.05: I will list both good ✔️ and [bad news](https://x.com/adamaviv/status/1549028478372270087) ✘ here. All three submissions were rejected by CRYPTO! ✘
