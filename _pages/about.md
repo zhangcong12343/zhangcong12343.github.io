@@ -56,7 +56,7 @@ You can find my CV here: [My CV](../files/EnglishCV.pdf). If you are interested 
 <div class="news-container" markdown="1">
 
 - 2026.10：All seven submissions were early rejected by USENIX Security! ✘ One submission was early rejected by PKC! ✘
-- 2026.09：Following the completion of my postdoctoral fellowship, I have joined the State Key Laboratory of Cryptography and Digital Economy Security, Tsinghua University！✔️ Two submissions were desk rejected by NDSS! ✘
+- 2026.09：Following the completion of my postdoctoral fellowship, I have joined the State Key Laboratory of Cryptography and Digital Economy Security, Beijing Tsinghua Institute for Frontier Interdisciplinary Innovation！✔️ Two submissions were desk rejected by NDSS! ✘
 - 2026.08：I have been invited to be a PC member for [NDSS 2027](https://www.ndss-symposium.org/ndss2027/)！✔️ Paper on PFE was accepted to ASIACRYPT! ✔️ Three submissions were rejected by ASIACRYPT! ✘ One submission was rejected by TCC! ✘
 - 2026.07：Two submissions were rejected by ACM CCS! ✘ One submission was rejected by NDSS! ✘
 - 2026.06：Paper on Fuzzy PSI was accepted to ACM CCS! ✔️ Two submissions were early rejected by ACM CCS! ✘ Paper on PSU was accepted to Inscrypt! ✔️
