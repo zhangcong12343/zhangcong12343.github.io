@@ -40,7 +40,8 @@ I'm an anime fan with pretty eclectic tastes - my watchlist includes everything 
 - Shiki.
 - ZOMBIE LAND SAGA.
 - Violet Evergarden.
-
+- You and I Are Polar Opposites
+- The Ramparts of Ice
 
 
 Useful Links
