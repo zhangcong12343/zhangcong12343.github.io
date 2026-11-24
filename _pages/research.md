@@ -11,6 +11,12 @@ redirect_from:
 
 Publications
 ======
+### 2027
+
+- **Fuzzy PSI from Symmetric Primitives with Exact Logarithmic Dependence on Distance Threshold.** <br>
+Cong Zhang, Yang Cao, Shuaishuai Li, Yujie Bai, Juntong Lin, Yu Chen, Anyu Wang, Xiaoyun Wang <br>
+PKC 2027. [[arXiv](http://arxiv.org/abs/2606.15093)]
+
 ### 2026
 
 - **Information-Theoretic SFE and PFE with Reduced Communication.** <br>
@@ -114,9 +120,6 @@ Inscrypt 2020. [[link](https://link.springer.com/chapter/10.1007/978-3-030-71852
 
 Manuscripts
 ======
-
-- **Fuzzy PSI from Symmetric Primitives with Exact Logarithmic Dependence on Distance Threshold.** <br>
-Cong Zhang, Yang Cao, Yujie Bai, Shuaishuai Li, Juntong Lin, Yu Chen, Anyu Wang, Xiaoyun Wang [[arXiv](http://arxiv.org/abs/2606.15093)]
 
 - **Two-Server Sublinear PIR with Symmetric Privacy and Statistical Security.** <br>
 Shuaishuai Li, Anyu Wang, Cong Zhang, Xiaoyun Wang [[eprint](https://eprint.iacr.org/2025/1313)]
