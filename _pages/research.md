@@ -133,6 +133,9 @@ Shuaishuai Li, Weiran Liu, Liqiang Peng, Cong Zhang, Xinwei Gao, Aiping Liang, L
 Talks
 ======
 
+- **Breaking the Curse of Dimensionality: Fuzzy PSI without $O((\log\delta)^d)$ Overhead.** <br>
+2026.11.16: ACM CCS 2026, The Hague, The Netherlands.
+  
 - **A Simple Introduction to Secure Multi-Party Computation.** <br>
 2026.07.10: AIMS Conference 2026, Athens, Greece. 
 
