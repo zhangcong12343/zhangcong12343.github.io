@@ -25,11 +25,11 @@ ASIACRYPT 2026. [[eprint](https://eprint.iacr.org/2026/1647)]
 
 - **Private Set Union under Hidden Feature Overlap for Security Intelligence Ingestion.** <br>
 Juntong Lin, Shuaishuai Li, Cong Zhang, Zhiyuan Qiu, Qidi You, Anyu Wang, Xiaoyun Wang <br>
-Inscrypt 2026.
+Inscrypt 2026. [[link](https://link.springer.com/chapter/10.1007/978-981-92-7681-3_15)]
 
 - **Breaking the Curse of Dimensionality: Fuzzy PSI without O((log δ)^d) Overhead.** <br>
 Cong Zhang, Yang Cao, Yujie Bai, Shuaishuai Li, Juntong Lin, Yu Chen, Anyu Wang, Xiaoyun Wang <br>
-ACM CCS 2026. 
+ACM CCS 2026. [[eprint](https://eprint.iacr.org/2026/3016)]
 
 - **Private Function Evaluation with Linear Complexity.** <br>
 Shuaishuai Li, Cong Zhang, Anyu Wang, Xiaoyun Wang <br>
